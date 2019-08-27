@@ -1,0 +1,22 @@
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-08-26T20:47:32.575294925-07:00"
+from:
+  id-type: crev
+  id: dUc4luSnPuYlfYarXUizPOSBLUBZguTVOQUCHmAKSps
+  url: "https://github.com/programmerjake/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: softfloat-sys
+  version: 0.1.1
+  revision: 4a5d02dd4185bbb17148ce1bf5907fa3be3698ce
+  digest: rOYeUJrVWjdtpC6A5A2Pw7hu3DFE5tEiKIprKTj336k
+review:
+  thoroughness: none
+  understanding: medium
+  rating: positive
+comment: "original author; rating not strong because it only builds on Linux; none for throrughness because I didn't review all of softfloat's C code."
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+aEtZ7Ghy26KR0fr3MLA3IZ6ZxssK6hvgPRhbBX5BnBti2aU36dNkJDbeh5uBjfSKjXdR-WTZKxPUwqZV51dmBA
+-----END CREV PACKAGE REVIEW-----
+
