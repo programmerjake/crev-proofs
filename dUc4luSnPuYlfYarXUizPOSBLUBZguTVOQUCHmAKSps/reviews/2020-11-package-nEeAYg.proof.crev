@@ -94,3 +94,26 @@ comment: |-
 OakcagulkVluPyNzk8GdiXICC4UGP-E3BDboqZ3bI1NkqX8ZLPIJzKNngzuQ4wLCe1EoTo5inHDNa3PB2gAWBQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-11-05T18:31:44.677746593-08:00"
+from:
+  id-type: crev
+  id: dUc4luSnPuYlfYarXUizPOSBLUBZguTVOQUCHmAKSps
+  url: "https://github.com/programmerjake/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: htmlescape
+  version: 0.3.1
+  digest: m20_EVssnEb2dsCxTcy9P8yEiVVsWjvPyC-lKZQ90NU
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+comment: |-
+  quick read through  
+----- SIGN CREV PROOF -----
+2obxiKlhJLPy07ihGSMpWhJItVEGjdMxGSCVuC-swHYWPVojzEDuKO78BFz6cK1cJ9XqaEHFWwm4QPsFbQh8DA
+----- END CREV PROOF -----
+
