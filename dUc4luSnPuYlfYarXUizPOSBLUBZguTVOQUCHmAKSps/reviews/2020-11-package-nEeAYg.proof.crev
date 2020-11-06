@@ -46,3 +46,27 @@ comment: |-
 lF5YHhJz9tR3RqhD81qRe7DCmZfu1i5ST63KJL0sxFvFEqpwdGWm42w6X-gS7oNgIiOGmuXHnm--nK57ZAmLBg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-11-05T18:19:21.855740451-08:00"
+from:
+  id-type: crev
+  id: dUc4luSnPuYlfYarXUizPOSBLUBZguTVOQUCHmAKSps
+  url: "https://github.com/programmerjake/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: power-instruction-analyzer-proc-macro
+  version: 0.2.0
+  revision: 5f7d8c0e32c6aeba8533553b77e6261018b84c06
+  digest: G1OE2W08AoMvab0bTGP_vLnnXchf83MN0SvDyipYSU8
+review:
+  thoroughness: low
+  understanding: high
+  rating: positive
+comment: |-
+  original author
+----- SIGN CREV PROOF -----
+K5nmCjMfcquRg4tfjOTz7l593UO5cDuPti1h4kV_ap3DF8o08RjjAx7kpqhbOcAOQTZ85Nk4WE0A-SiIT7MlDw
+----- END CREV PROOF -----
+
