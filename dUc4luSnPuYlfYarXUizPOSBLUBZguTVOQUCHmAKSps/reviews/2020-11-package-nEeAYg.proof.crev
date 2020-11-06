@@ -22,3 +22,27 @@ comment: |-
 ZsSZl8ZbROaGnLStXchuTGT8_chX0w3zZiTPimuXfdOpHusC2N_d-l2MZ1PgLRdlT35cTcpwTWiYNkRaQE7oBA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-11-05T18:13:15.090611222-08:00"
+from:
+  id-type: crev
+  id: dUc4luSnPuYlfYarXUizPOSBLUBZguTVOQUCHmAKSps
+  url: "https://github.com/programmerjake/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: vcd
+  version: 0.6.1
+  revision: 06f926815e1142067129456f6ee988337a617b78
+  digest: h__WsU1V2zUy83PFoUQfZBsoelT71-VRG0e630hddto
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+comment: |-
+  read through source, previously contributed code to add support for "string" VarType
+----- SIGN CREV PROOF -----
+lF5YHhJz9tR3RqhD81qRe7DCmZfu1i5ST63KJL0sxFvFEqpwdGWm42w6X-gS7oNgIiOGmuXHnm--nK57ZAmLBg
+----- END CREV PROOF -----
+
